@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AscentCyber
 - 👀 I’m interested in ... learning HTML, CSS, & Python. I'm also interested in finding a career in Systems Admin & Cyber Security. 
-- 🌱 I’m currently learning ...HTML, CSS, Python and am working through the Security+ certification. 
+- 🌱 I’m currently learning ...HTML, CSS, Python and just passed the Security+ certification. 
 - 💞️ I’m looking to collaborate on ...any projetcs to grow my skill set. 
 - 📫 How to reach me ...cpe1293@gmail.com
 - 😄 Pronouns: ...
