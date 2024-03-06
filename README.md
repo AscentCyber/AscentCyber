@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...HTML, CSS, Python and just passed the Security+ certification. 
 - 💞️ I’m looking to collaborate on ...any projetcs to grow my skill set. 
 - 📫 How to reach me ...cpe1293@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...I am working hard to traverse industires from financial investing to system admin work and cyber security. 
 
 <!---
